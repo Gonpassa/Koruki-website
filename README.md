@@ -3,7 +3,7 @@ Website for cloud hosting company.
 
 **Link to project:** https://koruki.netlify.app/
 
-![Loruki](http://placecorgi.com/1200/650)
+![Loruki](https://raw.githubusercontent.com/Gonpassa/Koruki-website/main/Loruki.jpg)
 
 ## How It's Made:
 
